@@ -26,7 +26,7 @@ git commit -m "xxx"
 ```
 - 提交本地工作目录下所有修改，而不需要先 git add,相当于：git add 和 git commit
 ```java
-git commit -am"message"
+git commit -am "message"
 ```
 - 查看当前仓库状态
 ```java
